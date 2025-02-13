@@ -66,8 +66,8 @@ Me chamo Luis Roberto Soares,estou cursando Ciência da computação. Sou ligado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+
+<br>
 
 ### 📊 Estatísticas
 
