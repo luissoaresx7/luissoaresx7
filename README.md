@@ -49,7 +49,7 @@ Me chamo Luis Roberto Soares,estou cursando Ciência da computação. Sou ligado
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
+<img
     align="left" 
     alt="Git" 
     title="Git"
@@ -64,7 +64,7 @@ Me chamo Luis Roberto Soares,estou cursando Ciência da computação. Sou ligado
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+img/>
 
 
 <br>
