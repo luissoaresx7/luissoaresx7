@@ -31,7 +31,6 @@ Me chamo Luis Roberto Soares,estou cursando Ciência da computação. Sou ligado
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> 
 />
 <img 
     align="left" 
@@ -77,7 +76,7 @@ Me chamo Luis Roberto Soares,estou cursando Ciência da computação. Sou ligado
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissoaresx7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+/>
 
 </p>
 
